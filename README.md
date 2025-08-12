@@ -1,3 +1,5 @@
-# yolo
+# Yolo - You Only Look Once
 Object Classification.
-Version - 7
+
+# Versions
+Yolo5 & Yolo11
